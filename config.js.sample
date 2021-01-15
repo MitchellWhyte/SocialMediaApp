@@ -1,0 +1,5 @@
+module.exports = {
+    MONGODB:
+        'mongodb+srv://<username>:<password>@cluster0.rojwp.mongodb.net/<dbname>?retryWrites=true&w=majority',
+    SECRET_KEY: 'secret key',
+};
